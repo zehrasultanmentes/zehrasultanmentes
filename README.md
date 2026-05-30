@@ -30,7 +30,7 @@ Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Yazılım geliştirme, web 
 ---
 
 ### 📫 Benimle İletişime Geçin
-* 💼 **LinkedIn:** [ZehraSultanMenteş](www.linkedin.com/in/zehra-sultan-menteş) 
+* 💼 **LinkedIn:** [Zehra Sultan Menteş](https://www.linkedin.com/in/zehra-sultan-mentes)
 * 📧 **E-posta:** menteszehrasultan@gmail.com 
 
 ---
